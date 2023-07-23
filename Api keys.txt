@@ -1,0 +1,4 @@
+API
+Wolfram API = UJJP7V-2G5Q5WY9GV
+Omdb = 12768673
+Weather info = 1a1101a099mshf99b6ddbf2bbc93p1e06ecjsn1c5fe4505e46

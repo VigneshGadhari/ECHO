@@ -1,0 +1,6 @@
+Pyttsx3
+SpeechRecognition
+requests
+wolframalpha
+
+
